@@ -26,13 +26,6 @@ The "Online Examination" project is a Java-based application designed to facilit
 - **JSP/Servlets**: Java-based technologies for building the web interface and handling HTTP requests/responses.
 - **MySQL**: Database management system for storing user information, questions, exams, and results.
 - **HTML/CSS**: Markup and stylesheet languages for structuring and styling the web interface.
-- **JavaScript**: Programming language for adding interactivity and client-side validation.
-
-## Future Enhancements
-
-- **Advanced Question Types**: Support for additional question types such as essays, file uploads, and code snippets.
-- **Proctoring Features**: Implement features for online proctoring to ensure exam integrity, such as webcam monitoring and screen recording.
-- **Mobile Compatibility**: Enhance the application's responsiveness and usability on mobile devices.
-- **Analytics and Reports**: Provide more detailed analytics and reporting tools for tracking student performance over time.
+- **JavaScript**: Programming language for adding interactivity and client-side .
 
 
