@@ -11,7 +11,6 @@ The "Online Examination" project is a Java-based application designed to facilit
 - **Timer Functionality**: Exams are timed, and the system automatically submits the exam when the time limit is reached.
 - **Automatic Grading**: Objective questions (e.g., multiple choice) are automatically graded by the system, providing instant feedback to students.
 - **Results and Analysis**: Administrators can view detailed results and analysis for each exam, helping to identify areas where students excel or need improvement.
-
 ## Usage
 
 1. **Login**: Users (administrators and students) log in to the system using their credentials.
